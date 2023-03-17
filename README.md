@@ -1,5 +1,3 @@
 # Welcome
-
-*Welcome to my Github Pages*
-
+*Welcome to my first Github Pages*
 >Typography
