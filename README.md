@@ -1,2 +1,5 @@
-# jihanfachrani.github.io
-Tugas individu (Tipografi)
+# Welcome
+
+*Welcome to my Github Pages*
+
+>Typography
